@@ -2,7 +2,9 @@
 
 ## Description
 
-Bocchi mempunyai *n* bilangan bulat positif, Bocchi ingin mengetahui dari *n* bilangan positif, apakah dia bisa membentuk suatu kombinasi angka sehingga ketika angka tersebut dijumlahkan membentuk angka *x*. Bantulah Bocchi untuk mencari apakah dia bisa membentuk kombinasi angka tersebut atau tidak
+Bocchi mempunyai *n* bilangan bulat positif, Bocchi ingin mengetahui dari *n* bilangan positif, apakah dia bisa membentuk suatu kombinasi angka sehingga ketika angka tersebut dijumlahkan membentuk angka *x*. Bantulah Bocchi untuk mencari apakah dia bisa membentuk kombinasi angka tersebut atau tidak.
+
+NOTE : kamu bisa membentuk kombinasi dari elemen yang sama
 
 ## Constraints
 - $0 \leq n \leq 2 \times 10^4$ 
@@ -33,7 +35,7 @@ IYA
 
 #### IN 2
 5 9   
-3 5 7 10 8
+6 5 7 10 8
 
 #### OUT 2
 TIDAK
